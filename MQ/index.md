@@ -1,4 +1,4 @@
-![](images\mq-adv-pot.png)
+![](mq-adv-pot.png)
 
 ## What is IBM MQ?
 
